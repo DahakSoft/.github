@@ -1,27 +1,31 @@
-### 👋 Hello World! I'm DahakSoft.
+### 👋 Witaj w DahakSoft.
 
-**Senior Software Engineer (Rocznik '70) | 30+ Years of Experience**
+**Inżynieria Oprogramowania | 30+ Lat Doświadczenia | Automatyzacja Procesów**
 
-Jestem inżynierem, który pamięta czasy przed Internetem, a dziś integruje najnowsze modele AI.
-Nie szukam problemów – dostarczam rozwiązania.
-
----
-
-#### 🛠️ Tech Stack & Specialization:
-*   **Automation:** Python 🐍, VBA (Excel), Business Process Optimization.
-*   **Core Engineering:** C++ ⚙️, Qt Framework, Legacy Systems Modernization.
-*   **AI Integration:** LLM Implementation, Custom AI Personas (Gemini/OpenAI API).
-*   **Web:** Backend Development, SQL.
+Jestem inżynierem rocznik '70. Pamiętam czasy, gdy optymalizacja kodu była koniecznością, a nie sugestią. Dziś łączę tę solidność z nowoczesnymi technologiami AI. Nie szukam problemów – dostarczam działające rozwiązania.
 
 ---
 
-#### 🚀 Co robię po godzinach (B2B)?
-Pomagam firmom, które utknęły.
-*   Masz Excela, który paraliżuje biuro? **Zautomatyzuję go.**
-*   Masz stary system w C++, którego nikt nie chce dotknąć? **Naprawię go.**
-*   Chcesz wdrożyć AI, ale nie wiesz jak? **Zrobię to.**
+#### 🛠️ Specjalizacja i Technologie:
 
-👉 **[Odwiedź moją stronę i porozmawiaj z moim AI Asystentem (Dahak)](https://dahaksoft.pl)**
+*   **Automatyzacja Biznesowa:** Python 🐍, VBA (Excel). Zamieniam godziny ręcznej pracy w biurze na sekundy pracy skryptu.
+*   **Inżynieria Systemowa:** C++ ⚙️, Qt, Modernizacja Starszych Systemów (Legacy). Naprawiam i rozwijam oprogramowanie, którego inni boją się dotknąć.
+*   **Integracja AI:** Wdrażanie modeli językowych (LLM) i tworzenie dedykowanych asystentów (jak Persona Dahak).
+*   **Backend:** Budowa wydajnych systemów i baz danych (SQL).
 
 ---
-*"Dostarczam kod, który po prostu działa."*
+
+#### 🚀 Oferta współpracy (B2B):
+
+Realizuję projekty w modelu "after-hours" (wieczory i weekendy). Jestem idealnym partnerem dla firm, które potrzebują eksperckiej wiedzy seniora, ale nie szukają pracownika na pełen etat.
+
+1.  Twoja firma tonie w Excelach i papierologii? **Zautomatyzuję to.**
+2.  Masz krytyczny system w C++, który wymaga opieki? **Zajmę się nim.**
+3.  Chcesz wykorzystać AI w biznesie? **Wdrożę to.**
+
+👉 **[Odwiedź moją stronę i porozmawiaj z moim Wirtualnym Asystentem](https://dahaksoft.pl)**
+
+---
+<div align="center">
+  <em>"Dostarczam kod, który po prostu działa."</em>
+</div>
