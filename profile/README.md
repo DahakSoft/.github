@@ -4,7 +4,7 @@
 
 **Inżynieria Oprogramowania | 30+ Lat Doświadczenia | Fullstack Development**
 
-Jestem informatykiem (mgr inż.), rocznik '70. Pamiętam czasy, gdy optymalizacja kodu była koniecznością, a nie sugestią. Dziś łączę tę inżynierską solidność z nowoczesnymi technologiami webowymi i AI. Nie szukam problemów – dostarczam działające rozwiązania.
+Jestem informatykiem (mgr inż.), rocznik '70. Pamiętam czasy, gdy optymalizacja kodu była koniecznością, a nie sugestią. Dziś łączę tę inżynierską solidność z nowoczesnymi technologiami webowymi i AI. Dostarczam działające rozwiązania, działające latami :-).
 
 ---
 
@@ -28,7 +28,6 @@ Realizuję projekty w modelu "after-hours" (wieczory i weekendy). Jestem idealny
 4.  Chcesz wykorzystać AI w biznesie? **Wdrożę to.**
 
 👉 **[Odwiedź moje portfolio (SPA w React) i porozmawiaj z Dahakiem](https://dahaksoft.pl)**
-👉 **[Odwiedź moją stronę i porozmawiaj z moim Wirtualnym Asystentem](https://dahaksoft.pl)**
 
 <div align="center">
   <h3>💬 Przykładowa interakcja z Dahakiem:</h3>
