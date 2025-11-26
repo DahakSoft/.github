@@ -29,7 +29,8 @@ Realizuję projekty w modelu "after-hours" (wieczory i weekendy). Jestem idealny
 
 <div align="center">
   <h3>💬 Przykładowa interakcja z Dahakiem:</h3>
-  <img width="1638" height="1686" alt="Rozmowa z AI Dahak" src="https://github.com/user-attachments/assets/d75fbfb1-df72-43b7-9fd3-cddd20b5aae6" />
+  <img width="1918" height="1549" alt="Rozmowa z AI Dahak" src="https://github.com/user-attachments/assets/3e972428-4b77-4562-9ef3-d66f4f368f3c" />
+
 </div>
 
 ---
