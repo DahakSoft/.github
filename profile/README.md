@@ -2,18 +2,19 @@
 ![smok_hd](https://github.com/user-attachments/assets/940f0e25-19c0-411f-898a-d0dd47bd5195)
 
 
-**Inżynieria Oprogramowania | 30+ Lat Doświadczenia | Automatyzacja Procesów**
+**Inżynieria Oprogramowania | 30+ Lat Doświadczenia | Fullstack Development**
 
-Jestem inżynierem rocznik '70. Pamiętam czasy, gdy optymalizacja kodu była koniecznością, a nie sugestią. Dziś łączę tę solidność z nowoczesnymi technologiami AI. Nie szukam problemów – dostarczam działające rozwiązania.
+Jestem informatykiem (mgr inż.), rocznik '70. Pamiętam czasy, gdy optymalizacja kodu była koniecznością, a nie sugestią. Dziś łączę tę inżynierską solidność z nowoczesnymi technologiami webowymi i AI. Nie szukam problemów – dostarczam działające rozwiązania.
 
 ---
 
 #### 🛠️ Specjalizacja i Technologie:
 
+*   **Web & Fullstack:** React ⚛️, JavaScript, Tailwind CSS. Tworzę kompletne, responsywne aplikacje (SPA) oparte na solidnej architekturze, a nie gotowych szablonach.
 *   **Automatyzacja Biznesowa:** Python 🐍, VBA (Excel). Zamieniam godziny ręcznej pracy w biurze na sekundy pracy skryptu.
 *   **Inżynieria Systemowa:** C++ ⚙️, Qt, Modernizacja Starszych Systemów (Legacy). Naprawiam i rozwijam oprogramowanie, którego inni boją się dotknąć.
-*   **Integracja AI:** Wdrażanie modeli językowych (LLM) i tworzenie dedykowanych asystentów (jak Persona Dahak).
-*   **Backend:** Budowa wydajnych systemów i baz danych (SQL).
+*   **Integracja AI:** Wdrażanie modeli językowych (LLM) i tworzenie dedykowanych asystentów (jak Persona Dahak na mojej stronie).
+*   **Backend:** Budowa wydajnych systemów i baz danych (SQL, PHP API).
 
 ---
 
@@ -21,10 +22,12 @@ Jestem inżynierem rocznik '70. Pamiętam czasy, gdy optymalizacja kodu była ko
 
 Realizuję projekty w modelu "after-hours" (wieczory i weekendy). Jestem idealnym partnerem dla firm, które potrzebują eksperckiej wiedzy seniora, ale nie szukają pracownika na pełen etat.
 
-1.  Twoja firma tonie w Excelach i papierologii? **Zautomatyzuję to.**
-2.  Masz krytyczny system w C++, który wymaga opieki? **Zajmę się nim.**
-3.  Chcesz wykorzystać AI w biznesie? **Wdrożę to.**
+1.  Potrzebujesz dedykowanej aplikacji webowej lub panelu klienta? **Zbuduję ją.**
+2.  Twoja firma tonie w Excelach i papierologii? **Zautomatyzuję to.**
+3.  Masz krytyczny system w C++, który wymaga opieki? **Zajmę się nim.**
+4.  Chcesz wykorzystać AI w biznesie? **Wdrożę to.**
 
+👉 **[Odwiedź moje portfolio (SPA w React) i porozmawiaj z Dahakiem](https://dahaksoft.pl)**
 👉 **[Odwiedź moją stronę i porozmawiaj z moim Wirtualnym Asystentem](https://dahaksoft.pl)**
 
 <div align="center">
