@@ -27,6 +27,11 @@ Realizuję projekty w modelu "after-hours" (wieczory i weekendy). Jestem idealny
 
 👉 **[Odwiedź moją stronę i porozmawiaj z moim Wirtualnym Asystentem](https://dahaksoft.pl)**
 
+<div align="center">
+  <h3>💬 Przykładowa interakcja z Dahakiem:</h3>
+  <img width="1638" height="1686" alt="Rozmowa z AI Dahak" src="https://github.com/user-attachments/assets/d75fbfb1-df72-43b7-9fd3-cddd20b5aae6" />
+</div>
+
 ---
 <div align="center">
   <em>"Dostarczam kod, który po prostu działa."</em>
