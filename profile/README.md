@@ -1,4 +1,6 @@
 ### 👋 Witaj w DahakSoft.
+![smok_hd](https://github.com/user-attachments/assets/940f0e25-19c0-411f-898a-d0dd47bd5195)
+
 
 **Inżynieria Oprogramowania | 30+ Lat Doświadczenia | Automatyzacja Procesów**
 
